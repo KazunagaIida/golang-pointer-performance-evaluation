@@ -1,4 +1,4 @@
-## 実行方法
+## Execution Method
 
 ```shell
 go test -bench=.
